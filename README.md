@@ -1,4 +1,4 @@
-# easy-csv
+# easy-csv (WIP)
  A minimal library for writing CSV file with Node.Js.
  
  
