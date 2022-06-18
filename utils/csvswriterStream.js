@@ -1,7 +1,7 @@
 /*
 Author: Kripu Khadka
 Date: 18 June 2022
-File Description: Sync API file writer to the system
+File Description: Stream API file writer to the system
 
 */
 
