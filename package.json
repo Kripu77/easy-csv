@@ -1,0 +1,23 @@
+{
+  "name": "easy-csv",
+  "version": "1.0.0",
+  "description": "A minimal library for writing csv files with node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kripu77/easy-csv.git"
+  },
+  "keywords": [
+    "Easy",
+    "CSV"
+  ],
+  "author": "Kripu Khadka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kripu77/easy-csv/issues"
+  },
+  "homepage": "https://github.com/Kripu77/easy-csv#readme"
+}
